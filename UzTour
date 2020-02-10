@@ -1,0 +1,213 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <style type="text/css">
+            img{
+                width: 300px;
+                height: 300px;
+            }
+        </style>
+         
+<title>Uztour.com</title>
+<meta name="description" content="Каталог отличных бесплатных игры и программ, все они проверены на работоспособность, есть и много модов на популярные игры">
+<meta name="keywords" content="программы для андроид, игры на андроид, украшения на андроид, android 1, android 1 com, андройд 1, android, мод игры, андроид игры, мод апк, мод">
+<link rel="search" type="application/opensearchdescription+xml" href="https://android-1.com/engine/opensearch.php" title="Новости, бесплатные игры и программы для андроид">
+<link rel="alternate" hreflang="x-default" href="https://android-1.com/" />
+<link rel="alternate" hreflang="ru" href="https://android-1.com/" />
+<link rel="alternate" hreflang="en" href="https://android-1.com/en/" />
+		<link rel="canonical" href="https://android-1.com/" />
+        <!-- icon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://android-1.com/templates/android_one/img/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://android-1.com/templates/android_one/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://android-1.com/templates/android_one/img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/templates/android_one/img/favicon/manifest.json">
+        <link rel="mask-icon" href="https://android-1.com/templates/android_one/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="theme-color" content="#ffffff">
+       
+         <link rel="stylesheet" href="https://android-1.com/templates/android_one/css/main2.min.css?v=71">
+       
+    </head>
+    <body>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6165649549973632",
+          enable_page_level_ads: true
+     });
+</script>
+        <!-- mobile-header -->
+        <div class="mobile-header">
+    <button id="search-button"></button>
+    <button id="menu-button"></button>
+     
+</div>
+
+        <!-- navbar -->
+		       <div class="navbar" id="navbar" class="sticky-top">
+            <div class="container">
+              <ul class="outer clearfix">
+
+              
+             
+             </ul>
+            </div>
+        </div>
+
+         		<div class="news-box no-margin">
+            <div class="container">
+                <!-- tab-area -->
+                <div class="tab-area">
+                    <!-- buttons -->
+                    <!-- tabs -->
+                    <div class="tab-content">
+                        <div class="tab-container active" id="tab-4-1">
+                            <div class="news-list">	
+							<div class="item">
+                                    <div class="img">
+                                        <img src="n5.jpg" alt="Qoralpog'iston">
+                                        <div class="desc">
+											<a href="about.html" class="category">Qoraqalpog'iston</a>
+                                             
+                                            <a href="about.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="about.html"class="title">Qoralpog'iston</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="nav5.jpg" alt="Navoiy">
+                                        <div class="desc">
+											<a href="navoiy.html" class="category">Navoiy</a>
+                                              
+                                            <a href="navoiy.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="navoiy.html" class="title">Navoiy</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="b5.jpg" alt="Buxoro">
+                                        <div class="desc">
+											<a href="bukhara.html" class="category">Buxoro</a>
+                                             
+                                            <a href="bukhara.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="bukhara.html" class="title">Buxoro</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="q5.jfif" alt="Qashqadaryo">
+                                        <div class="desc">
+											<a href="qashqadaryo.html" class="category">Qashqadaryo</a>
+                                             
+                                            <a href="qashqadaryo.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="qashqadaryo.html" class="title">Qashqadaryo</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="s5.jpg" alt="Surxondaryo">
+                                        <div class="desc">
+											<a href="surxon.html" class="category">Surxondaryo</a>
+                                            
+                                            <a href="surxon.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="surxon.html" class="title">Surxondaryo</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="sa5.jpg" alt="Samarqand">
+                                        <div class="desc">
+											<a href="samarqand.html" class="category">Samarqand</a>
+                                             
+                                            <a href="samarqand.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="samarqand.html" class="title">Samarqand</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="j5.jpg" alt="Jizzax">
+                                        <div class="desc">
+											<a href="Jizzah.html" class="category">Jizzax</a>
+                                             
+                                            <a href="Jizzah.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="Jizzah.html" class="title">Jizzax</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="t5.jpg" alt="Toshkent">
+                                        <div class="desc">
+											<a href="toshkent.html" class="category">Toshkent</a>
+                                             
+                                            <a href="toshkent.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="toshkent.html" class="title">Toshkent</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="na5.jpg" alt="Namangan">
+                                        <div class="desc">
+											<a href="namangan.html" class="category">Namangan</a>
+                                             
+                                            <a href="namangan.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="namangan.html" class="title">Namangan</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="an5.jpg" alt="Andijon">
+                                        <div class="desc">
+											<a href="Andijon.html" class="category">Andijon</a>
+                                             
+                                            <a href="Andijon.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="Andijon.html" class="title">Andijon</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="fa5.jpg" alt="Farg'ona">
+                                        <div class="desc">
+											<a href="f.html" class="category">Farg'ona</a>
+                                             
+                                            <a href="f.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="f.html" class="title">Farg'ona</a>
+                                </div>
+<div class="item">
+                                    <div class="img">
+                                        <img src="nu5.jpg" alt="Nukus">
+                                        <div class="desc">
+											<a href="nukus.html" class="category">Nukus</a>
+                                            
+                                            <a href="nukus.html" class="go-to"></a>
+                                        </div>
+                                    </div>
+                                    <a href="nukus.html" class="title">Nukus</a>
+                                </div>
+ 
+
+							</div>
+                        </div>
+                    </div>
+					
+                </div>
+            </div>
+        </div>
+                <button id="search-close"></button>
+            </div>
+        </header>
+
+        <!-- header-news -->
+</script>
+    </body>
+</html>
